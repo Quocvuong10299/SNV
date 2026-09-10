@@ -6,12 +6,12 @@ import { newsList } from '../data/docs'
 <template>
   <!-- Banner -->
   <section
-    class="bg-gray-200 py-20 text-center"
+    class="bg-yellow-2 py-20 text-center"
   >
     <div class="max-w-4xl mx-auto px-4">
 
-      <h1 class="text-3xl md:text-5xl font-bold text-gray-800">
-        Chào mừng đến với Cẩm nang Điện Tử ngành Nội vụ
+      <h1 class="text-3xl md:text-4xl font-bold text-gray-800">
+        Chào mừng đến với Hệ thống tài liệu hướng dẫn chuyên môn của ngành Nội vụ
       </h1>
 
       <p class="mt-5 text-lg text-gray-600">

@@ -6,7 +6,7 @@ export const newsList = [
     image: 'https://placehold.co/600x400',
     link:'https://drive.google.com/drive/folders/1doA02-SulHh_dHwFmR6VPgrmoNs9OB8w?usp=sharing',
     description:
-      'Nhóm văn bản liên quan đến tổ chức bộ máy, biên chế, vị trí việc làm, tinh giản biên chế'
+      'Nhóm văn bản liên quan đến tổ chức bộ máy, biên chế, vị trí việc làm, tinh giản biên chế, phân cấp và phân quyền'
   },
 
   {
@@ -63,5 +63,14 @@ export const newsList = [
     link:'https://drive.google.com/drive/folders/1doA02-SulHh_dHwFmR6VPgrmoNs9OB8w?usp=sharing',
     description:
      'Nhóm văn bản liên quan đến lĩnh vực lao động, việc làm'
+  },
+  {
+    id: 8,
+    title: 'Thi đua, khen thưởng',
+    date: '29/08/2026',
+    image: 'https://placehold.co/600x400',
+    link:'https://drive.google.com/drive/folders/1D8huYWfRs_1qXTvtxTGyzJe6xh6JR1ml?usp=drive_link',
+    description:
+     'Nhóm văn bản liên quan đến lĩnh vực thi đua, khen thưởng'
   },
 ]

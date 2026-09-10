@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @theme {
     /* Màu chủ đạo */
-  --color-primary: #044EA9;
+  --color-primary: #0E47A2;
 
   /* Màu đỏ đậm */
   --color-primary-dark: #7f1618;
@@ -15,9 +15,10 @@
   /* Màu chữ */
   --color-text-main: #1f2937;
 
-  /* Màu xám */
+  /* Màu vàng */
   --color-border: #e5e7eb;
   --color-yellow: #FCD00E;
+  --color-yellow-2: #FFFFEC;
 }
 
 body {

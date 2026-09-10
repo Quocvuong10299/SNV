@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-secondary text-white">
+  <nav class="bg-primary text-white">
     <div class="max-w-7xl mx-auto px-4">
       <ul class="flex flex-wrap items-center">
         
