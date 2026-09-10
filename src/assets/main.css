@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@theme {
+    /* Màu chủ đạo */
+  --color-primary: #044EA9;
+
+  /* Màu đỏ đậm */
+  --color-primary-dark: #7f1618;
+
+  /* Màu vàng */
+  --color-secondary: #21B5DF;
+
+  /* Màu nền */
+  --color-background: #f5f7fa;
+
+  /* Màu chữ */
+  --color-text-main: #1f2937;
+
+  /* Màu xám */
+  --color-border: #e5e7eb;
+  --color-yellow: #FCD00E;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
