@@ -20,7 +20,14 @@
             Giới thiệu
           </RouterLink>
         </li>
-
+        <li>
+          <RouterLink
+            to="/don-vi-thuoc-truc-thuoc"
+            class="block px-4 py-3 hover:bg-yellow"
+          >
+            Đơn vị thuộc/trực thuộc Sở Nội vụ
+          </RouterLink>
+        </li>
       </ul>
     </div>
   </nav>
