@@ -16,7 +16,7 @@ defineProps({
       :alt="news.title"
       class="w-full h-48 object-cover"
     > -->
-  <a :href="news.link" class="card-link">
+  <a target="_blank" :href="news.link" class="card-link">
 <div class="p-5">
       <!-- <p class="text-sm text-gray-500 mb-2">
         {{ news.date }}

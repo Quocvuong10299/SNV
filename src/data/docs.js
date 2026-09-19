@@ -60,7 +60,7 @@ export const newsList = [
     title: 'Lao động, việc làm',
     date: '29/08/2026',
     image: 'https://placehold.co/600x400',
-    link:'https://drive.google.com/drive/folders/1doA02-SulHh_dHwFmR6VPgrmoNs9OB8w?usp=sharing',
+    link:'https://drive.google.com/drive/folders/1h0sfiZ1EJ11vcWDRksZYFCJSpD4MXTn4?usp=drive_link',
     description:
      'Nhóm văn bản liên quan đến lĩnh vực lao động, việc làm'
   },
